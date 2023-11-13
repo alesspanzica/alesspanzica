@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋 I'm Alessia Panzica (she/her)! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h4 align="center"> I'm an aspiring software engineer from Toronto, Canada who's passionate about learning, reading, cryptography, and coding.</h4>
+<h1 align="center"> Hi there, I'm Alessia Panzica! 👋<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">I'm an aspiring software engineer from Toronto who's passionate about learning, cryptography, and coding.</h3>
 
 - 🌱 I’m currently a dual degree student, pursuing a dual degree in **Applied Mathematics Engineering & Computer Science;** graduating in April 2024 from Queen's University.
 
@@ -25,7 +25,7 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">My most used languages and tools:</h3>
 
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -33,9 +33,6 @@
   </a>  
   <a href="https://www.java.com/en/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql-original.svg" alt="sql" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
