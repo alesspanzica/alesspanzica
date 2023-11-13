@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I'm Alessia! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center"> I'm a passionate aspiring  from Toronto, Canada!</h3>
+<h3 align="center"> I'm an aspiring software engineer from Toronto, Canada who's passionate about learning, cryptography, and coding!</h3>
 
 - 🌱 I’m currently a dual degree student, pursuing a dual degree in **Applied Mathematics Engineering & Computer Science**; graduating in April 2024 from Queen's University.
 
