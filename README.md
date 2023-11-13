@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 I'm Alessia Panzica (she/her)! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h4 align="center"> I'm an aspiring software engineer from Toronto, Canada who's passionate about learning, reading, cryptography, and coding.</h3>
+<h4 align="center"> I'm an aspiring software engineer from Toronto, Canada who's passionate about learning, reading, cryptography, and coding.</h4>
 
-- 🌱 I’m currently a dual degree student, pursuing a dual degree in **Applied Mathematics Engineering & Computer Science**; graduating in April 2024 from Queen's University.
+- 🌱 I’m currently a dual degree student, pursuing a dual degree in **Applied Mathematics Engineering & Computer Science;** graduating in April 2024 from Queen's University.
 
 - 👔 I'm seeking **full-time employment starting in the Fall of 2024** in software engineering, technology consulting, cybersecurity, and all other related fields.
 
@@ -13,11 +13,11 @@
 
 - 💻 I’m currently developing a couple of **websites** as part of my freelancing *(see pinmystyle.ca and mriyacreations.ca repositories)*.
 
-- ⚡ What I like to do in my spare time: **I love to read, do crosswords, learn about cryptography ... and code of course**
+- ⚡ What I like to do in my spare time: **I love to read, do crosswords, learn about cryptography ... and code of course**.
 
 - 😄 Pronouns: **she/her**
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessia-panzica/)
