@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋 I'm Alessia! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center"> I'm an aspiring software engineer from Toronto, Canada who's passionate about learning, cryptography, and coding!</h3>
+<h1 align="center"> Hi there 👋 I'm Alessia Panzica (she/her)! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h4 align="center"> I'm an aspiring software engineer from Toronto, Canada who's passionate about learning, reading, cryptography, and coding.</h3>
 
 - 🌱 I’m currently a dual degree student, pursuing a dual degree in **Applied Mathematics Engineering & Computer Science**; graduating in April 2024 from Queen's University.
 
@@ -7,9 +7,9 @@
 
 - 👯 I've done two past **software engineering internships** at Canada Life (2022) and H&R Block (2021) where I've programmed in Python and SQL, and gained experience in financial risk and fraud, data analytics, building automated software, and administrating Salesforce platforms.
 
-- 🌎 Placed in the **top 50 worldwide in the Google Solutions Challenge** in 2022 where we developed an app, EcoLink, targeted to encourage recycling and sustainable practices *(see QueensGDSC repository for app development and competition submissions)*.
+- 🌎 Placed in the **top 50 worldwide in the Google Solutions Challenge** in 2022 where we developed an app, EcoLink, targeted to encourage recycling and sustainable practices *(see QueensGDSC repository)*.
 
-- 📝 I completed an **undergraduate thesis** designing a Vibration Energy Harvester to harvest ocean wave power using buoys *(see ___)*.
+- 📝 I completed an **undergraduate thesis** designing a Vibration Energy Harvester to harvest ocean wave power using buoys *(see VEH-undergrad-thesis repository)*.
 
 - 💻 I’m currently developing a couple of **websites** as part of my freelancing *(see pinmystyle.ca and mriyacreations.ca repositories)*.
 
