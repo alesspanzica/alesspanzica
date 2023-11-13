@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Alessia Panzica! 👋<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">I'm an aspiring software engineer from Toronto, Canada with a passion for math and coding.</h3> 
+<h3 align="center">I'm an aspiring software engineer with a passion for mathematics, cryptography, and coding.</h3> 
 
 - 🌱 I’m a dual degree student, pursuing **Applied Mathematics Engineering & Computer Science;** graduating in April 2024 from Queen's University.
 
