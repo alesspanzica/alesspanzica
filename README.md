@@ -7,7 +7,7 @@
 
 - 👯 I've done two past **software engineering internships** at Canada Life (2022) and H&R Block (2021) where I've programmed in Python and SQL, and gained experience in financial risk and fraud, data analytics, building automated software, and administrating Salesforce platforms.
 
-- 🌎 Placed in the **top 50 worldwide in the Google Solutions Challenge** in 2022 where we developed an app, EcoLink, targeted to encourage recycling and sustainable practices *(see ___)*.
+- 🌎 Placed in the **top 50 worldwide in the Google Solutions Challenge** in 2022 where we developed an app, EcoLink, targeted to encourage recycling and sustainable practices *(see QueensGDSC repository for app development and competition submissions)*.
 
 - 📝 I completed an **undergraduate thesis** designing a Vibration Energy Harvester to harvest ocean wave power using buoys *(see ___)*.
 
