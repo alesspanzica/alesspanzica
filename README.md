@@ -9,7 +9,7 @@
 
 - 🌎 Placed in the **top 50 worldwide in the Google Solutions Challenge** in 2022 with a developed app encouraging recycling and sustainable practices *(see QueensGDSC repository)*.
 
-- 📝 I completed an **undergraduate thesis** designing a Vibration Energy Harvester to harvest ocean wave power using buoys *(see VEH-undergrad-thesis repository)*.
+- 📝 I completed an **undergraduate thesis** designing a Vibration Energy Harvester to harvest power from ocean waves using buoys *(see VEH-undergrad-thesis repository)*.
 
 - 💻 I’m developing two **websites** as part of my freelancing *(see pinmystyle.ca and mriyacreations.ca repositories)*.
 
