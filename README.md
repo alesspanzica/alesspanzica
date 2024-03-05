@@ -3,7 +3,7 @@
 
 - 🌱 I’m a dual degree student, pursuing **Applied Mathematics Engineering & Computer Science;** graduating in April 2024 from Queen's University.
 
-- 👔 I'm seeking **full-time employment starting in the Fall of 2024** in software engineering, technology consulting, cybersecurity, and all other related fields.
+- 👔 I'm seeking **full-time employment starting in the Fall of 2024** in software engineering, data engineering, cybersecurity, and all other related fields.
 
 - 👯 I've done two past **software engineering internships** at Canada Life (2022) and H&R Block (2021) where I've programmed in Python and SQL, and gained experience in financial risk and fraud, data analytics, building automated software, and administrating Salesforce platforms.
 
